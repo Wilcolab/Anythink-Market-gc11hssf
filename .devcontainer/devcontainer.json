@@ -39,8 +39,12 @@
     "github-cli": "latest",
     "ghcr.io/devcontainers/features/sshd:1": {
       "version": "latest"
+<<<<<<< HEAD
     },
     "ghcr.io/devcontainers/features/node:1": {}
+=======
+    }
+>>>>>>> ae452bf (Gitting Started)
   },
 
   "settings": {

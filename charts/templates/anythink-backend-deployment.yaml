@@ -21,7 +21,11 @@ spec:
         - args:
             - sh
             - -c
+<<<<<<< HEAD
             - "yarn seeds && yarn start"
+=======
+            - yarn start
+>>>>>>> ae452bf (Gitting Started)
           env:
             - name: MONGODB_URI
               value: "{{ .Values.database.connectionProtocol }}{{ .Values.database.serviceName }}:{{ .Values.database.servicePort }}/{{ .Values.database.databaseName }}"
