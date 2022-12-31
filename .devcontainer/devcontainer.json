@@ -39,16 +39,9 @@
     "github-cli": "latest",
     "ghcr.io/devcontainers/features/sshd:1": {
       "version": "latest"
-<<<<<<< HEAD
-<<<<<
     }
-=======
-    }
->>>>>>> ae452bf (Gitting Started)
-=======
-    }
->>>>>>> test-branch
-  },
+  }
+,
 
   "settings": {
     "extensions.ignoreRecommendations": true,
